@@ -1,6 +1,6 @@
 # Stack
 
-import java.util.Scanner;
+import java.util.Scanner;  
 import java.util.Stack;
 
 public class Stack0603 {							// 후입선출 LIFO(Last In First Out) stack
