@@ -3,8 +3,6 @@
 import java.util.Scanner;  
 import java.util.Stack;
 
-'''python
-
 public class Stack0603 {							// 후입선출 LIFO(Last In First Out) stack	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -42,5 +40,3 @@ public class Stack0603 {							// 후입선출 LIFO(Last In First Out) stack
 		}
 	}
 }				    
-				       
-'''
